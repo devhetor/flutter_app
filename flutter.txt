@@ -1,0 +1,20 @@
+flutter
+
+widgets
+
+- é uma classe abstrata
+- quando represetamos a tela inteira ou uma parte dela
+
+meterialapp
+
+- somente é necessário uma vez na aplicação
+
+pages
+
+- widgets que ocupom a tela inteira
+- flutter keys: identificador 
+- statefull
+
+
+Material
+
